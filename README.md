@@ -22,15 +22,3 @@ A secure, anonymous chat platform built with React, Firebase, and modern web tec
 2. Set up environment variables (see `.env.local.example`)
 3. Run development server: `npm run dev`
 4. Build for production: `npm run build`
-
-## 🔒 Environment Variables
-
-Required Firebase configuration variables:
-- `VITE_FIREBASE_API_KEY`
-- `VITE_FIREBASE_AUTH_DOMAIN`
-- `VITE_FIREBASE_PROJECT_ID`
-- `VITE_FIREBASE_STORAGE_BUCKET`
-- `VITE_FIREBASE_MESSAGING_SENDER_ID`
-- `VITE_FIREBASE_APP_ID`
-- `VITE_FIREBASE_MEASUREMENT_ID`
-- `VITE_RECAPTCHA_SITE_KEY`
