@@ -19,6 +19,6 @@ A secure, anonymous chat platform built with React, Firebase, and modern web tec
 ## 🚀 Getting Started
 
 1. Install dependencies: `npm install`
-2. Set up environment variables (see `.env.local.example`)
+2. Set up environment variables (see `env.example`)
 3. Run development server: `npm run dev`
 4. Build for production: `npm run build`
